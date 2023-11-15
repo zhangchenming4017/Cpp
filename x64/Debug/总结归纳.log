@@ -1,0 +1,5 @@
+﻿  函数高阶_函数重载_函数匹配.cpp
+D:\code\解决方案\总结归纳\函数高阶_函数重载_函数匹配.cpp(22,6): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+D:\code\解决方案\总结归纳\函数高阶_函数重载_函数匹配.cpp(23,6): warning C4244: “参数”: 从“const double”转换到“const int”，可能丢失数据
+D:\code\解决方案\总结归纳\函数高阶_函数重载_函数匹配.cpp(25,6): warning C4244: “参数”: 从“double”转换到“const int”，可能丢失数据
+  总结归纳.vcxproj -> D:\code\解决方案\x64\Debug\总结归纳.exe
